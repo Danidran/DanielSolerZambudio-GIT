@@ -15,7 +15,7 @@ public class DanielSolerZambudioGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int x=3;
+        int x=4;
         System.out.println(x);
     }
     
